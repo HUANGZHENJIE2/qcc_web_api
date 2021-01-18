@@ -21,8 +21,6 @@ qcc = qcc = QccWebApi("[您的企查查cookie]")
 ```
 qcc.search_mind("阿里巴巴")
 ```
-out[0]\n
-{'list': [{'KeyNo': '8c9f7ddc1a7bcee3d1f7676773fe9404', 'QccCode': '65CTZ8D', 'Name': '<em>阿里</em><em>巴巴</em>（中国）有限公司', 'OperName': '张勇', 'ImageUrl': 'https://co-image.qichacha.com/CompanyImage/8c9f7ddc1a7bcee3d1f7676773fe9404.jpg?x-oss-process=style/qcc_cmp', 'IsAuth': False, 'AuthLevel': -1, 'IsHide': False, 'Reason': '名称匹配'}, {'KeyNo': 'c70a55cb048c8e4db7bca357a2c113e0', 'QccCode': '80RA8T0', 'Name': '<em>阿里</em><em>巴巴</em>（中国）网络技术有限公司', 'OperName': '戴珊', 'ImageUrl': 'https://co-image.qichacha.com/CompanyImage/c70a55cb048c8e4db7bca357a2c113e0.jpg?x-oss-process=style/qcc_cmp', 'IsAuth': False, 'AuthLevel': -1, 'IsHide': False, 'Reason': '名称匹配'}, {'KeyNo': 'h7a5a6c405fca1754b9ef13a6a174600', 'QccCode': '435XAKG', 'Name': '<em>阿里巴巴</em>集團控股有限公司', 'OperName': '张勇', 'ImageUrl': 'https://co-image.qichacha.com/CompanyImage/h7a5a6c405fca1754b9ef13a6a174600.jpg?x-oss-process=style/qcc_cmp', 'IsAuth': False, 'AuthLevel': -1, 'IsHide': False, 'Reason': '名称匹配'}, {'KeyNo': 'eaed3b907f21bd7842a29ed411a8ac76', 'QccCode': '60CMWR2', 'Name': '浙江<em>阿里</em><em>巴巴</em>机器人有限公司', 'OperName': '陈丽娟', 'ImageUrl': 'https://co-image.qichacha.com/CompanyImage/eaed3b907f21bd7842a29ed411a8ac76.jpg?x-oss-process=style/qcc_cmp', 'IsAuth': False, 'AuthLevel': -1, 'IsHide': False, 'Reason': '名称匹配'}, {'KeyNo': 'b0fa3d310df2c236415d638d18da195c', 'QccCode': '723J8LC', 'Name': '<em>阿里</em><em>巴巴</em>华南技术有限公司', 'OperName': '童文红', 'ImageUrl': 'https://co-image.qichacha.com/CompanyImage/b0fa3d310df2c236415d638d18da195c.jpg?x-oss-process=style/qcc_cmp', 'IsAuth': False, 'AuthLevel': -1, 'IsHide': False, 'Reason': '名称匹配'}], 'personCount': 6}
 
 
 

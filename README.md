@@ -15,9 +15,13 @@ Python =< 3.9.0
 from qcc import QccWebApi
 qcc = qcc = QccWebApi("[您的企查查cookie]")
 ```
-### 2、如何获取企查查的cookie
+### 2、安装依赖
+```
+pip install requests
+```
+### 3、如何获取企查查的cookie
 ![Image text](https://raw.githubusercontent.com/HUANGZHENJIE2/qcc_web_api/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210118233422.png)
-### 3、调用API
+### 4、调用API
 ```
 qcc.search_mind("阿里巴巴")
 ```

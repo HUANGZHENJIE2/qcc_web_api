@@ -16,6 +16,7 @@ from qcc import QccWebApi
 qcc = qcc = QccWebApi("[您的企查查cookie]")
 ```
 ### 2、如何获取企查查的cookie
+![Image text](https://raw.githubusercontent.com/HUANGZHENJIE2/qcc_web_api/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210118233422.png)
 
 
 

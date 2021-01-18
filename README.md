@@ -9,5 +9,12 @@ Python =< 3.9.0
 部分功能可能需要企查查会员
 ```
 
+## Quick start - 快速开始
+### 1、将qcc.py复制到你的项目中，并导入QccWebApi
+```
+from qcc import QccWebApi
+qcc = qcc = QccWebApi("[您的企查查cookie]")
+```
+
 
 

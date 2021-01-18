@@ -13,7 +13,7 @@ Python =< 3.9.0
 ### 1、将qcc.py复制到你的项目中，并导入QccWebApi
 ```
 from qcc import QccWebApi
-qcc = qcc = QccWebApi("[您的企查查cookie]")
+qcc = QccWebApi("[您的企查查cookie]")
 ```
 ### 2、安装依赖
 ```

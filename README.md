@@ -27,9 +27,9 @@ qcc.search_mind("阿里巴巴")
 ```
 ## Changelog - 更新日志
 #### v0.1
-实现了 search_mind 
-实现了 get_detail
-实现了 find_relationship
+实现了 search_mind  
+实现了 get_detail  
+实现了 find_relationship  
 
 
 
